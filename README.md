@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Customer Data Merge – Technical Interview Preparation
 
 ## Overview
@@ -47,7 +47,3 @@ Constraints:
 - `customerData1` has a length of `m + n`
 - The last `n` elements of `customerData1` are placeholders (`0`)
 - The final merged dataset must be stored inside `customerData1`
-
-=======
-# Merging-Customer-Data
->>>>>>> 635c1f7fda1d754ac0e59f636af159a8ab39eb63
